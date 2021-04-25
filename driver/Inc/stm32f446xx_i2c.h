@@ -46,7 +46,7 @@ typedef struct
 /*
  * @I2C_FMDutyCycle
  */
-#define I2C_FMDUTY_2				0
+#define I2C_FMDUTY_2			0
 #define I2C_FMDUTY_16_9			1
 
 /*
